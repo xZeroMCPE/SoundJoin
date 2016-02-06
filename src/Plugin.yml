@@ -1,7 +1,0 @@
-name: SoundJoin
-author: BukkitPE Team
-authors: [DelxHQ, AndreTheGamer]
-deskcription: Plays a sound on player join.
-main: SoundJoin\Main
-version: 1.0.0
-api: 1.0.0
