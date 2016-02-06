@@ -25,7 +25,7 @@ public function onJoin(PlayerJoinEvent $event){
        $JoinMessage = $this->getConfig()->get("JoinMessage"); // So it can pull the users config (Message) via config :)
         $Sound =$this->getConfig()->get("Sound");  // So it can pull the sound the user wants
         $player = $event->getPlayer();
-        $event->getPlayer->sendMessage("$JoinMessage");
+        $event->getPlayer->sendMessage("Welcome to my server");
         $player->getLevel()->addSound(new $Sound($player), [$player]);
 }
 }
