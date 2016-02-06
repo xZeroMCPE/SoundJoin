@@ -1,1 +1,21 @@
-// created lol
+#########
+# SoundMessage Config -
+# - If you ever messed up, Just delete it and it will generate a new one :) 
+#######
+
+##
+# JoinMessage - What message will display when players join the server
+##
+JoinMessage: Welcome to my server
+
+##
+# Sound - Add a sound name on which will be used when players joins the server
+# SoundList -> PopSound , FizzSound , DoorSound , ClickSound , BlazeShootSound , BatSound , EndermanTeleportSound <-
+##
+Sound: PopSound
+
+
+#####
+# Created by: BukkitPE Team , www.BukkitPE.net  
+# Visit site for more plugins,get help,learn the api..ect)
+####
