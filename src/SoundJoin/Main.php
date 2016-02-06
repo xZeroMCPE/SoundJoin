@@ -8,6 +8,10 @@ use BukkitPE\event\player\PlayerJoinEvent;
 use BukkitPE\level\sound\Sound;
 use BukkitPE\level\sound\PopSound;
 use BukkitPE\utils\Config;
+use BukkitPE\level\sound\FizzSound;
+use BukkitPE\level\sound\EndermanTeleportSound;
+use BukkitPE\level\sound\DoorSound;
+use BukkitPE\level\sound\BatSound;
 
 class Events extends PluginBase implements Listener{
 
