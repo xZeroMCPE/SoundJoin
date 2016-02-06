@@ -5,8 +5,8 @@ namespace SoundJoin;
 use BukkitPE\plugin\PluginBase;
 use BukkitPE\event\Listener;
 use BukkitPE\event\player\PlayerJoinEvent;
-use BukkitPE\level\sound\Sound
-use BukkitPE\level\sound\PopSound
+use BukkitPE\level\sound\Sound;
+use BukkitPE\level\sound\PopSound;
 use BukkitPE\utils\Config;
 
 class Events extends PluginBase implements Listener{
